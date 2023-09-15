@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "anime": "^0.1.2",
+    "gsap": "file:gsap-bonus.tgz",
+    "jquery": "^3.7.1",
+    "spltjs": "^1.1.0",
+    "three": "^0.156.1",
+    "tilt.js": "^1.2.1"
+  },
+  "devDependencies": {
+    "vite": "^4.4.9"
+  },
+  "name": "porto",
+  "version": "1.65.3",
+  "description": "A Showcasing portfolio for my web development skills",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dakidmelo31/port2.git"
+  },
+  "keywords": [
+    "Portfolio",
+    "Ndoye",
+    "Philip",
+    "Ndula",
+    "Web",
+    "Developer"
+  ],
+  "author": "Ndoye Philip Ndula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dakidmelo31/port2/issues"
+  },
+  "homepage": "https://github.com/dakidmelo31/port2#readme"
+}
